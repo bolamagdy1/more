@@ -1,0 +1,56 @@
+.abo
+{
+    color:black;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+}
+.more
+{
+    color:black;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 15px;
+    font-size: 20px;
+}
+.more h3
+{
+    color:black;
+}
+.contact
+{
+    float:left ;
+    color:black;
+    padding: 3px;
+    font-size: 20px;
+}
+.num:hover
+{
+     color:black;
+     text-decoration: underline;
+}
+span
+{
+    font-size: 30px;
+}
+
+.song
+{
+    margin-left: 200px; 
+    text-align: center;
+    width: 1000px;
+}
+.work
+{
+    margin-left: 200px; 
+    text-align: center;
+    width: 1000px;
+}
+
+
+
+
+
+
+
