@@ -1,3 +1,7 @@
+body
+{
+    background-color: #7CFFCD;
+}
 .abo
 {
     color:black;
@@ -5,6 +9,7 @@
     padding: 10px;
     font-size: 20px;
 }
+
 .more
 {
     color:black;
@@ -37,12 +42,14 @@ span
 
 .song
 {
+    color: black;
     margin-left: 200px; 
     text-align: center;
     width: 1000px;
 }
 .work
 {
+    color: black;
     margin-left: 200px; 
     text-align: center;
     width: 1000px;
